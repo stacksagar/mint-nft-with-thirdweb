@@ -221,7 +221,7 @@ const MintPage = ({ nativeBalance, collection }) => {
                       "MINT"
                     ) : (
                       <small style={{ color: "#fff" }}>
-                        You don't have enough currency to claim!
+                        You don&apos;t have enough currency to claim!
                       </small>
                     )}
                   </button>
